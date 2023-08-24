@@ -10,8 +10,8 @@
 #include <SinricProGarageDoor.h>
 #endif
 
-#define WIFI_SSID   "Slt Fiber Silva"
-#define WIFI_PASS   "shaun@2007"
+#define WIFI_SSID   "xxxxx"
+#define WIFI_PASS   "xxxxx"
 #define BAUD_RATE    115200
 #define WL 13
 #define WH 12
